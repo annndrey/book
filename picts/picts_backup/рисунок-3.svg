@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="524.40942"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="рисунок-3.svg"
+   inkscape:export-filename="/home/annndrey/desktop/Work/рисунок-3.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective3961"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3961-4"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <filter
+       id="filter4300"
+       inkscape:label="Ink bleed"
+       inkscape:menu="Protrusions"
+       inkscape:menu-tooltip="Inky splotches underneath the object"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4302"
+         result="result1"
+         in="SourceGraphic"
+         stdDeviation="1.3" />
+      <feTurbulence
+         id="feTurbulence4304"
+         result="result0"
+         numOctaves="4"
+         baseFrequency="0.034" />
+      <feDisplacementMap
+         id="feDisplacementMap4306"
+         in2="result0"
+         result="result2"
+         scale="19.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="result1" />
+      <feColorMatrix
+         id="feColorMatrix4308"
+         values="2 0 0 0 0 0 2 0 0 0 0 0 2 0 0 0 0 0 0.7 0"
+         result="result3" />
+      <feGaussianBlur
+         id="feGaussianBlur4310"
+         result="result4"
+         in="SourceGraphic"
+         stdDeviation="1.1" />
+      <feComposite
+         id="feComposite4312"
+         in2="result3"
+         in="result4" />
+    </filter>
+    <filter
+       id="filter4576"
+       inkscape:label="Evanescent"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Blur the contents of objects, preserving the outline and adding progressive transparency at edges"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4578"
+         result="result6"
+         stdDeviation="3"
+         in="SourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix4580"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result7"
+         in="SourceGraphic" />
+      <feComposite
+         id="feComposite4582"
+         in2="result7"
+         operator="in"
+         in="result6" />
+    </filter>
+    <filter
+       id="filter4596"
+       inkscape:label="Evanescent"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Blur the contents of objects, preserving the outline and adding progressive transparency at edges"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix4598"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result7" />
+      <feGaussianBlur
+         id="feGaussianBlur4600"
+         result="result6"
+         stdDeviation="5" />
+      <feComposite
+         id="feComposite4602"
+         in2="result7"
+         operator="atop"
+         in="result6"
+         result="result91" />
+      <feComposite
+         id="feComposite4604"
+         in2="result91"
+         operator="in"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4630" />
+      <feColorMatrix
+         id="feColorMatrix4632"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result7"
+         in="fbSourceGraphic" />
+      <feGaussianBlur
+         id="feGaussianBlur4634"
+         result="result6"
+         stdDeviation="5" />
+      <feComposite
+         id="feComposite4636"
+         in2="result7"
+         operator="atop"
+         in="result6"
+         result="result91" />
+      <feComposite
+         id="feComposite4638"
+         in2="result91"
+         operator="in"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4640" />
+      <feGaussianBlur
+         id="feGaussianBlur4642"
+         result="result6"
+         stdDeviation="3"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix4644"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result7"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4646"
+         in2="result7"
+         operator="in"
+         in="result6" />
+    </filter>
+    <inkscape:perspective
+       id="perspective5233"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5281"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2968"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2993"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3024"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2973"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="423.01063"
+     inkscape:cy="359.06567"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="1003"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="0,1"
+       position="149.50258,4.0406102"
+       id="guide2994" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.26769)">
+    <text
+       xml:space="preserve"
+       style="font-size:21px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
+       x="125.71429"
+       y="462.66592"
+       id="text4904"
+       sodipodi:linespacing="125%"
+       transform="translate(0,308.26769)"><tspan
+         sodipodi:role="line"
+         id="tspan4906" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
+       x="210"
+       y="365.52304"
+       id="text4946"
+       sodipodi:linespacing="125%"
+       transform="translate(0,308.26769)"><tspan
+         sodipodi:role="line"
+         id="tspan4948" /></text>
+    <g
+       id="g3042"
+       inkscape:export-filename="/media/xru/rozhankaya/рисунок-3.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g2978">
+        <g
+           id="g2911">
+          <g
+             inkscape:export-ydpi="600"
+             inkscape:export-xdpi="600"
+             inkscape:export-filename="/media/xru/rozhankaya/рисунок-3.png"
+             id="g3002">
+            <rect
+               style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+               id="rect4705"
+               width="524.28571"
+               height="743.69977"
+               x="1.4285715"
+               y="306.22656"
+               ry="0.53367746"
+               inkscape:export-xdpi="600"
+               inkscape:export-ydpi="600" />
+            <text
+               xml:space="preserve"
+               style="font-size:21px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
+               x="91.428574"
+               y="453.52103"
+               id="text4994"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 id="tspan4996"
+                 x="91.428574"
+                 y="453.52103">Много земель я оставил за мною;</tspan><tspan
+                 sodipodi:role="line"
+                 x="91.428574"
+                 y="479.77103"
+                 id="tspan4998">Вынес я много смятенной душою</tspan><tspan
+                 sodipodi:role="line"
+                 x="91.428574"
+                 y="506.02103"
+                 id="tspan5000">Радостей ложных, истинных зол;</tspan><tspan
+                 sodipodi:role="line"
+                 x="91.428574"
+                 y="532.271"
+                 id="tspan5002">Много мятежных решил я вопросов.</tspan><tspan
+                 sodipodi:role="line"
+                 x="91.428574"
+                 y="558.521"
+                 id="tspan5004">Прежде чем руки марсельских матросов</tspan><tspan
+                 sodipodi:role="line"
+                 x="91.428574"
+                 y="584.771"
+                 id="tspan5006">Подняли якорь, надежды символ!</tspan><tspan
+                 sodipodi:role="line"
+                 x="91.428574"
+                 y="611.021"
+                 id="tspan5008" /><tspan
+                 sodipodi:role="line"
+                 x="91.428574"
+                 y="637.271"
+                 id="tspan5010">С детства влекла меня сердца тренога</tspan><tspan
+                 sodipodi:role="line"
+                 x="91.428574"
+                 y="663.521"
+                 id="tspan5012">В область свободную влажного бога:</tspan><tspan
+                 sodipodi:role="line"
+                 x="91.428574"
+                 y="689.771"
+                 id="tspan5014">Жадные длани я к ней простирал,</tspan><tspan
+                 sodipodi:role="line"
+                 x="91.428574"
+                 y="716.021"
+                 id="tspan5016">Темную страсть мою днесь награждая,</tspan><tspan
+                 sodipodi:role="line"
+                 x="91.428574"
+                 y="742.271"
+                 id="tspan5018">Кротко щадит меня немочь морская:</tspan><tspan
+                 sodipodi:role="line"
+                 x="91.428574"
+                 y="768.521"
+                 id="tspan5020">Пеною здравья брызжет мне вал!</tspan><tspan
+                 sodipodi:role="line"
+                 x="91.428574"
+                 y="794.771"
+                 id="tspan5022" /><tspan
+                 sodipodi:role="line"
+                 x="91.428574"
+                 y="821.021"
+                 id="tspan5024">Нужды нет, близко ль, далеко ль до брега!</tspan><tspan
+                 sodipodi:role="line"
+                 x="91.428574"
+                 y="847.271"
+                 id="tspan5026">В сердце к нему приготовлена нега.</tspan><tspan
+                 sodipodi:role="line"
+                 x="91.428574"
+                 y="873.521"
+                 id="tspan5028">Вижу Фетиду; мне жребий благой</tspan><tspan
+                 sodipodi:role="line"
+                 x="91.428574"
+                 y="899.771"
+                 id="tspan5030">Емлет она из лазоревой урны:</tspan><tspan
+                 sodipodi:role="line"
+                 x="91.428574"
+                 y="926.021"
+                 id="tspan5032">Завтра увижу я башни Ливурны,</tspan><tspan
+                 sodipodi:role="line"
+                 x="91.428574"
+                 y="952.271"
+                 id="tspan5034">Завтра увижу  Э л и з и й  з е м н о й ! </tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-size:21px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
+               x="295.71429"
+               y="980.93359"
+               id="text5036"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 id="tspan5038"
+                 x="295.71429"
+                 y="980.93359">Е. Баратынский</tspan></text>
+            <rect
+               style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+               id="rect4705-5"
+               width="524.28571"
+               height="743.69977"
+               x="-526.42859"
+               y="306.22656"
+               ry="0.53367746"
+               inkscape:export-xdpi="600"
+               inkscape:export-ydpi="600" />
+            <text
+               xml:space="preserve"
+               style="font-size:21px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
+               x="-431.98801"
+               y="453.52103"
+               id="text4837"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 id="tspan4839"
+                 x="-431.98801"
+                 y="453.52103">Дикою, грозною ласкою полны,</tspan><tspan
+                 sodipodi:role="line"
+                 x="-431.98801"
+                 y="479.77103"
+                 id="tspan4841">Бьют в наш корабль средиземные волны.</tspan><tspan
+                 sodipodi:role="line"
+                 x="-431.98801"
+                 y="506.02103"
+                 id="tspan4843">Вот над кормою стал капитан.</tspan><tspan
+                 sodipodi:role="line"
+                 x="-431.98801"
+                 y="532.271"
+                 id="tspan4845">Визгнул свисток его. Братствуя с паром,</tspan><tspan
+                 sodipodi:role="line"
+                 x="-431.98801"
+                 y="558.521"
+                 id="tspan4847">Ветру наш парус раздался недаром:</tspan><tspan
+                 sodipodi:role="line"
+                 x="-431.98801"
+                 y="584.771"
+                 id="tspan4849">Пенясь, глубоко вздохнул океан!</tspan><tspan
+                 sodipodi:role="line"
+                 x="-431.98801"
+                 y="611.021"
+                 id="tspan4851" /><tspan
+                 sodipodi:role="line"
+                 x="-431.98801"
+                 y="637.271"
+                 id="tspan4853">Мчимся. Колеса могучей машины</tspan><tspan
+                 sodipodi:role="line"
+                 x="-431.98801"
+                 y="663.521"
+                 id="tspan4855">Роют волнистое лоно пучины.</tspan><tspan
+                 sodipodi:role="line"
+                 x="-431.98801"
+                 y="689.771"
+                 id="tspan4857">Парус надулся. Берег исчез.</tspan><tspan
+                 sodipodi:role="line"
+                 x="-431.98801"
+                 y="716.021"
+                 id="tspan4859">Наедине мы с морскими волнами,</tspan><tspan
+                 sodipodi:role="line"
+                 x="-431.98801"
+                 y="742.271"
+                 id="tspan4861">Только что чайка вьется за нами</tspan><tspan
+                 sodipodi:role="line"
+                 x="-431.98801"
+                 y="768.521"
+                 id="tspan4863">Белая, рея меж вод и небес.</tspan><tspan
+                 sodipodi:role="line"
+                 x="-431.98801"
+                 y="794.771"
+                 id="tspan4865" /><tspan
+                 sodipodi:role="line"
+                 x="-431.98801"
+                 y="821.021"
+                 id="tspan4867">Только вдали, океана жилица,</tspan><tspan
+                 sodipodi:role="line"
+                 x="-431.98801"
+                 y="847.271"
+                 id="tspan4869">Чайке подобна, вод его птица,</tspan><tspan
+                 sodipodi:role="line"
+                 x="-431.98801"
+                 y="873.521"
+                 id="tspan4871">Парус развив, как большое крыло,</tspan><tspan
+                 sodipodi:role="line"
+                 x="-431.98801"
+                 y="899.771"
+                 id="tspan4873">С бурной стихией в томительном споре,</tspan><tspan
+                 sodipodi:role="line"
+                 x="-431.98801"
+                 y="926.021"
+                 id="tspan4875">Лодка рыбачья качается в море,-</tspan><tspan
+                 sodipodi:role="line"
+                 x="-431.98801"
+                 y="952.271"
+                 id="tspan4877">С брегом набрежное скрылось, ушло!</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-size:21px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
+               x="-317.56326"
+               y="394.798"
+               id="text4879"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 id="tspan4881"
+                 x="-317.56326"
+                 y="394.798">ПИРОСКАФ</tspan></text>
+            <g
+               id="g3010">
+              <text
+                 sodipodi:linespacing="125%"
+                 id="text2956"
+                 y="973.61963"
+                 x="-163.07539"
+                 style="font-size:36.85441208px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Free Times;-inkscape-font-specification:Free Times Medium"
+                 xml:space="preserve"><tspan
+                   y="973.61963"
+                   x="-163.07539"
+                   id="tspan2958"
+                   sodipodi:role="line">...</tspan></text>
+              <text
+                 sodipodi:linespacing="125%"
+                 id="text2956-2"
+                 y="973.61963"
+                 x="-135.01653"
+                 style="font-size:36.85441208px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Free Times;-inkscape-font-specification:Free Times Medium"
+                 xml:space="preserve"><tspan
+                   y="973.61963"
+                   x="-135.01653"
+                   id="tspan2958-5"
+                   sodipodi:role="line">...</tspan></text>
+            </g>
+            <g
+               transform="translate(253.39498,-548.95755)"
+               id="g3010-7">
+              <text
+                 sodipodi:linespacing="125%"
+                 id="text2956-24"
+                 y="973.61963"
+                 x="-163.07539"
+                 style="font-size:36.85441208px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Free Times;-inkscape-font-specification:Free Times Medium"
+                 xml:space="preserve"><tspan
+                   y="973.61963"
+                   x="-163.07539"
+                   id="tspan2958-49"
+                   sodipodi:role="line">...</tspan></text>
+              <text
+                 sodipodi:linespacing="125%"
+                 id="text2956-2-8"
+                 y="973.61963"
+                 x="-135.01653"
+                 style="font-size:36.85441208px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Free Times;-inkscape-font-specification:Free Times Medium"
+                 xml:space="preserve"><tspan
+                   y="973.61963"
+                   x="-135.01653"
+                   id="tspan2958-5-1"
+                   sodipodi:role="line">...</tspan></text>
+            </g>
+            <text
+               xml:space="preserve"
+               style="font-size:21px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
+               x="-441.43665"
+               y="371.41623"
+               id="text5036-6"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 id="tspan5038-1"
+                 x="-441.43665"
+                 y="371.41623">Е. Баратынский</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:21px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Free Times;-inkscape-font-specification:Free Times Medium"
+       x="210.11172"
+       y="643.58429"
+       id="text2974"
+       sodipodi:linespacing="125%"
+       transform="translate(0,308.26769)"><tspan
+         sodipodi:role="line"
+         id="tspan2976"
+         x="210.11172"
+         y="643.58429">  </tspan></text>
+  </g>
+</svg>
